@@ -9,7 +9,7 @@
 
 .j-title {
     font-family: joker-title;
-    letter-spacing: 16px;
+    /* letter-spacing: 16px; */
     color: brown;
 }
 .main h3 {
